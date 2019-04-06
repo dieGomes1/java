@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dde7dca6-bd3a-421f-82a2-3da271235e88" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../InmTreinamento2/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InmTreinamento2/.idea/libraries/junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InmTreinamento2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InmTreinamento2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InmTreinamento2/.idea/sonarlint/issuestore/0/9/09d3c97143395edab7deebe96b481093d08568bd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InmTreinamento2/.idea/sonarlint/issuestore/2/5/258c167714a19f8e4f206def0354aa15c438fa34" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InmTreinamento2/.idea/sonarlint/issuestore/2/9/29c49cf01d84cc2fc08e6b2a9caac4ec486529a3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InmTreinamento2/.idea/sonarlint/issuestore/3/4/34bbc01361ae7956125c2642644bdf8799cd501b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InmTreinamento2/.idea/sonarlint/issuestore/3/b/3befe04933998c643a81e83c363cad2994496282" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InmTreinamento2/.idea/sonarlint/issuestore/4/6/462f4bd85dc9083839378d7fa79986050f95c562" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InmTreinamento2/.idea/sonarlint/issuestore/4/9/49230b9fa351d609d7ca15edec5ff49c1edfb96c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InmTreinamento2/.idea/sonarlint/issuestore/4/9/499678e57228c76f9c1a52be93d4f3a1334201e0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InmTreinamento2/.idea/sonarlint/issuestore/5/5/55dd3eaed7baa5f53562cb294441a0b689ae40ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InmTreinamento2/.idea/sonarlint/issuestore/5/c/5c195f453c68ce1b1d6909554e1de06776187ee0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InmTreinamento2/.idea/sonarlint/issuestore/6/0/60e37570753c1a801d1d629541e7df6d6881b0b1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InmTreinamento2/.idea/sonarlint/issuestore/9/1/91d2b9605c5474b4f6f8e76c19733f4c60eedbea" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InmTreinamento2/.idea/sonarlint/issuestore/a/5/a5c34aa1c172d96c39b9f8f437a85f34e70a303b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InmTreinamento2/.idea/sonarlint/issuestore/a/5/a5d0d1533b717360fa2effe5d720683f369e5f03" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InmTreinamento2/.idea/sonarlint/issuestore/a/b/abf16334cbcceac7bea56d2b10d6973f31a51ec8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InmTreinamento2/.idea/sonarlint/issuestore/c/5/c5ae6fc8fa42f4529c594eed9bc9d5c0aad7846a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InmTreinamento2/.idea/sonarlint/issuestore/d/6/d647784779533e7ba850ea217a4b2d44d39dbe45" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InmTreinamento2/.idea/sonarlint/issuestore/e/0/e008bdd3589a9624ad43dfe7f4aa12d165cd084a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InmTreinamento2/.idea/sonarlint/issuestore/e/6/e6b4aeb530fc311ae4f70fb5cd9cd512ba9aafaa" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InmTreinamento2/.idea/sonarlint/issuestore/f/7/f7b3e0a49f7c428892a641b908b8eff5fcc4da54" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InmTreinamento2/.idea/sonarlint/issuestore/f/d/fda2a9defac0f3c6de42637babc72e24ef9a80df" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InmTreinamento2/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InmTreinamento2/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InmTreinamento2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InmTreinamento2/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InmTreinamento2/inmTreinamento.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InmTreinamento2/out/production/InmTreinamento/model/Calculadora.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InmTreinamento2/out/production/InmTreinamento/treinamento/CalculadoraTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InmTreinamento2/out/production/InmTreinamento/treinamento/Execercio02a.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InmTreinamento2/out/production/InmTreinamento/treinamento/Execercio02b.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InmTreinamento2/out/production/InmTreinamento/treinamento/Execercio02c.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InmTreinamento2/out/production/InmTreinamento/treinamento/Execercio02d.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InmTreinamento2/out/production/InmTreinamento/treinamento/Execercio02e.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InmTreinamento2/out/production/InmTreinamento/treinamento/Execercio02f.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InmTreinamento2/out/production/InmTreinamento/treinamento/Exercicio01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InmTreinamento2/out/production/InmTreinamento/treinamento/Exercicio03a.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InmTreinamento2/out/production/InmTreinamento/treinamento/Exercicio03b.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InmTreinamento2/out/production/InmTreinamento/treinamento/Exercicio03c.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InmTreinamento2/out/production/InmTreinamento/treinamento/Exercicio04Ju.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InmTreinamento2/out/production/InmTreinamento/treinamento/Exercicio04a.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InmTreinamento2/out/production/InmTreinamento/treinamento/Exercicio04b.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InmTreinamento2/out/production/InmTreinamento/treinamento/Exercicio04c.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InmTreinamento2/out/production/InmTreinamento/treinamento/Exercicio04d.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InmTreinamento2/out/production/InmTreinamento/treinamento/Exercicio04e.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InmTreinamento2/out/production/InmTreinamento/treinamento/OlaMundo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InmTreinamento2/out/production/InmTreinamento/treinamento/TestVariaveis.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InmTreinamento2/out/production/InmTreinamento/treinamento/TestaCondicionais.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InmTreinamento2/src/model/Calculadora.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InmTreinamento2/src/treinamento/CalculadoraTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InmTreinamento2/src/treinamento/Execercio02a.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InmTreinamento2/src/treinamento/Execercio02b.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InmTreinamento2/src/treinamento/Execercio02c.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InmTreinamento2/src/treinamento/Execercio02d.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InmTreinamento2/src/treinamento/Execercio02e.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InmTreinamento2/src/treinamento/Execercio02f.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InmTreinamento2/src/treinamento/Exercicio01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InmTreinamento2/src/treinamento/Exercicio03a.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InmTreinamento2/src/treinamento/Exercicio03b.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InmTreinamento2/src/treinamento/Exercicio03c.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InmTreinamento2/src/treinamento/Exercicio04Ju.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InmTreinamento2/src/treinamento/Exercicio04a.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InmTreinamento2/src/treinamento/Exercicio04b.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InmTreinamento2/src/treinamento/Exercicio04c.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InmTreinamento2/src/treinamento/Exercicio04d.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InmTreinamento2/src/treinamento/Exercicio04e.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InmTreinamento2/src/treinamento/OlaMundo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InmTreinamento2/src/treinamento/TestVariaveis.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InmTreinamento2/src/treinamento/TestaCondicionais.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inm/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inm/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inm/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inm/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inm/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inm/inm.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inm/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inmTreinamento/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inmetricsTreinamento/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inmetricsTreinamento/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inmetricsTreinamento/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inmetricsTreinamento/.idea/sonarlint/issuestore/0/9/0956fbf1478ad361342a7b371aabb148cba04afd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inmetricsTreinamento/.idea/sonarlint/issuestore/1/a/1a9644e3384fe8ad5aaf62ee636c4775ccdb0e89" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inmetricsTreinamento/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inmetricsTreinamento/.idea/sonarlint/issuestore/b/d/bd71e0b1bad25ebe36309c8d9da3f9935473135a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inmetricsTreinamento/.idea/sonarlint/issuestore/c/2/c27adf499edd53444cbf3b6ba89029c10b9ad074" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inmetricsTreinamento/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inmetricsTreinamento/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inmetricsTreinamento/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inmetricsTreinamento/inmTreinamento.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inmetricsTreinamento/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inmetricsTreinamento/src/test/java/test/Exercicio01a_Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inmetricsTreinamento/src/test/java/test/Exercicio01b_Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inmetricsTreinamento/src/test/java/test/Exercicio01c_Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inmetricsTreinamento/src/test/java/test/Exercicio1d_Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inmetricsTreinamento/src/test/java/test/Exercicio1e_Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inmetricsTreinamento/target/test-classes/test/Exercicio01a_Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inmetricsTreinamento/target/test-classes/test/Exercicio01b_Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inmetricsTreinamento/target/test-classes/test/Exercicio01c_Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inmetricsTreinamento/target/test-classes/test/Exercicio1d_Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inmetricsTreinamento/target/test-classes/test/Exercicio1e_Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webdriver-java/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webdriver-java/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webdriver-java/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webdriver-java/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webdriver-java/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webdriver-java/.idea/sonarlint/issuestore/6/f/6fba48d0f73f21a4751966c04c7ae1c25b9dda12" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webdriver-java/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webdriver-java/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webdriver-java/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webdriver-java/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webdriver-java/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webdriver-java/src/test/java/tests/InformacoesUsuariosTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webdriver-java/target/test-classes/META-INF/webdriver-java.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webdriver-java/target/test-classes/tests/InformacoesUsuariosTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webdriver-java/webdriver-java.iml" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/fundamentos/ConversorStringNumero.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="40" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/fundamentos/ConversorStringNumero.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="9" />
+    <option name="y" value="18" />
+    <option name="width" value="1347" />
+    <option name="height" value="690" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="CursoJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CursoJava" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="ConversorStringNumero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fundamentos.ConversorStringNumero" />
+      <module name="CursoJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fundamentos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ConversorStringNumero" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dde7dca6-bd3a-421f-82a2-3da271235e88" name="Default Changelist" comment="" />
+      <created>1554573952448</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554573952448</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="SonarLint" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32991454" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/fundamentos/ConversorStringNumero.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="40" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
