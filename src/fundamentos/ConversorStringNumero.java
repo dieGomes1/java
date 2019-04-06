@@ -14,7 +14,5 @@ public class ConversorStringNumero {
         double nota2 = Double.parseDouble(resposta2);
 
         System.out.println(nota1 + nota2);
-
-
     }
 }
